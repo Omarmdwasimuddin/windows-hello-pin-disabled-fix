@@ -6,7 +6,7 @@
 
 Windows লগইন স্ক্রিনে নিচের বার্তা দেখা যায়:
 
-> *"This sign-in option is disabled because of failed sign-in attempts or repeated shutdowns."*
+> *"This sign-in option is disabled because of failed sign-in attempts or repeated shutdowns. Use a different sign-in option, or keep your device powered on for at least 2 hours and then try again."*
 
 ### কারণ
 - বারবার ভুল PIN দেওয়া, অথবা
